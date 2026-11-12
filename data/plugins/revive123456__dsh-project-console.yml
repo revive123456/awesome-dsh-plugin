@@ -1,0 +1,6 @@
+url: https://github.com/revive123456/dsh-project-console
+name: revive123456/dsh-project-console
+category: dev
+description:
+  en: "A multi-task workbench: isolated worktrees, agent sessions, evidence-backed acceptance, integration batches, and human-confirmed pushes to the base branch."
+  zh: "多需求工作台：worktree 隔离、agent 会话、证据验收、集成批次，人工确认后才推进主干。"
